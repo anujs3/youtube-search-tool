@@ -1,3 +1,5 @@
+// Author: Anuj Shah
+
 var BASE_YOUTUBE_URL = 'https://www.googleapis.com/youtube/v3';
 var GOOGLE_API_KEY = 'AIzaSyDZCyu1khJH700EDxkzxh8an784ALkmhIg';
 
